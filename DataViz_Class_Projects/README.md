@@ -16,3 +16,5 @@ as well as data and "big idea" files, and a link to the online version of the vi
 **Project 4**: Animated Plot of Unemployment Rates by Party and President</br>
 **Project 5**: Dashboard of Sleep and Health Factors</br>
 **Final Presentation**: Data Story on the Health Affects of Social Media Screentime</br>
+
+All of these projects were created on the basis of a core "big idea". The big idea is the central, one sentence summary of the story to be conveyed in the visualization with a call to action for the audience. This is essentially the thesis statement of the visualization. I have included the Big Idea in a README inside every project folder, but additional information on the audience and the inspiration for the big idea can be found in each project's big idea worksheet, saved in a word document with "_Big_Idea" in the title.
