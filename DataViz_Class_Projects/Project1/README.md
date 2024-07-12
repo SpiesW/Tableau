@@ -3,3 +3,5 @@
 (Schiffert is Virginia Tech's student health center)</br>
 
 The dataset used for this project consists of a sample of 374 adults with a set of their health and sleep statistics.
+
+**Note:** I misplaced the .twbx file for this project, so only an image of the project can be viewed in the images folder.
